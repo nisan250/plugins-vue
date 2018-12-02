@@ -1,8 +1,7 @@
 
 # Router - Vue
 
-Vue Training - simple example with a router
-
+Vue Training - Reusing Logic and Data with Plugins
 
 # Run This Project
 to run this project:
