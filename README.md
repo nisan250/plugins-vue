@@ -1,29 +1,10 @@
-# plugins-vue
 
-## Project setup
-```
-npm install
-```
+# Router - Vue
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Vue Training - simple example with a router
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
+# Run This Project
+to run this project:
+click this link https://nisan250.github.io/plugins-vue/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
